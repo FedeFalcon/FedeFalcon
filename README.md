@@ -3,7 +3,7 @@
 I’m a university student passionate about backend development. I'm learning to build efficient and scalable APIs with **Python** and **FastAPI**. My goal is to master backend development and contribute to projects that make a difference.
 
 🛠️ **Technologies I use**  
-- **Backend**: Python, FastAPI  
+- **Backend**: Python, Django  
 - **Databases**: PostgreSQL  
 - **Version Control**: Git, GitHub  
 
