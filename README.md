@@ -3,7 +3,7 @@
 
 ¡Bienvenido a mi perfil! Soy un estudiante avanzado de la **Licenciatura en Sistemas** en proceso de reinvención profesional hacia el mundo de los **Datos**.
 
-Mi background es poco convencional: cuento con **15 años de experiencia en fuerzas de seguridad** y soy **fundador de una academia de Jiu-Jitsu**. Esta trayectoria ha forjado en mí capacidad para la resolución de problemas, gestión de crisis y una disciplina inquebrantable que ahora aplico a la ingeniería de datos.
+Mi background es poco convencional: cuento con **15 años de experiencia en fuerzas de seguridad** y soy **fundador de una academia de Jiu-Jitsu**. Esta trayectoria ha forjado en mí la capacidad para la resolución de problemas, gestión de crisis y una disciplina inquebrantable que ahora aplico a la ingeniería de datos.
 
 ---
 
