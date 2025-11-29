@@ -44,5 +44,3 @@ Mi background es poco convencional: cuento con **15 años de experiencia en fuer
 
 Si te interesa mi perfil o quieres charlar sobre datos (o artes marciales), contáctame:
 https://www.linkedin.com/in/federico-falcon-218a70336/
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][(https://www.linkedin.com/in/federico-falcon-218a70336/)]
