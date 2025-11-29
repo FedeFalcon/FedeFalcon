@@ -40,19 +40,9 @@ Mi background es poco convencional: cuento con **15 años de experiencia en fuer
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Federico's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Conectemos
 
 Si te interesa mi perfil o quieres charlar sobre datos (o artes marciales), contáctame:
 https://www.linkedin.com/in/federico-falcon-218a70336/
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](TU_LINK_A_LINKEDIN)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:TU_EMAIL_AQUI)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][(https://www.linkedin.com/in/federico-falcon-218a70336/)]
