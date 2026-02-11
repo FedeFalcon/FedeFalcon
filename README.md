@@ -9,7 +9,7 @@ Mi background es poco convencional: cuento con **15 años de experiencia en fuer
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** 2° año aprobado de Licenciatura en Sistemas (UNLaR).
+- 🎓 **Formación:** Cursando el 3er año de Licenciatura en Sistemas de Informacion (UNLaR).
 - 🔭 **Actualmente trabajando en:** Diseño de bases de datos relacionales y scripts de manipulación de datos.
 - 🌱 **Aprendiendo:** Data Warehousing, ETL Pipelines y optimización de consultas SQL.
 - 🥋 **Filosofía:** "En el código, como en el tatami: la técnica vence a la fuerza, y la constancia vence al talento."
